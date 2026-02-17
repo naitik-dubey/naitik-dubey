@@ -27,10 +27,19 @@
 ---
 
 ### 📊 My Coding Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/naitik213?theme=dark&font=Baloo%202&ext=heatmap" />
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Naitik213)
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=naitikdubey213" />
+</p>
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=naitikdubey213)
+<p align="center">
+  <img src="https://codechef-api.vercel.app/huge_oxygen_64" />
+</p>
+
+
 
 
 ---
