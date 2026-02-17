@@ -1,10 +1,37 @@
-# Hi 👋, I'm Naitik Dubey
+# Hi there, I'm Naitik Dubey 👋
 
-🎓 Computer Science Student  
-📊 Aspiring Data Analyst & Python Developer  
-💡 Interested in Data Analytics, SQL, DSA & Problem Solving  
+🎓 Computer Science and Information Technology(CS&IT) Student  
+📊 Aspiring Data Analyst, Machine Learning & Python Developer  
+💡 Interested in Big Data, Data Analytics, SQL, DSA & Problem Solving  
 🚀 Currently improving my skills in Python & Machine Learning  
 📍 India  
+
+---
+## 🧠 DSA & Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/yourusernameNaitik213">
+    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/naitikdubey213">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/huge_oxygen_64">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/klu2300090164">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📊 My Coding Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Naitik213)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=naitikdubey213)
+
 
 ---
 
