@@ -10,7 +10,7 @@
 ## 🧠 DSA & Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/yourusernameNaitik213">
+  <a href="https://leetcode.com/Naitik213">
     <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/naitikdubey213">
